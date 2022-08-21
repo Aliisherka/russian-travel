@@ -26,7 +26,6 @@
         width: 186px;
         display: grid;
         row-gap: 48px;
-        padding: 64px 0 24px 16px;
-        margin: 0;
+        padding: 64px 118px 24px 16px;
     }
 }
