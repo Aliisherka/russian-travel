@@ -1,0 +1,15 @@
+.place__paragraph_space {
+    padding-bottom: 26px;
+}
+
+@media screen and (max-width: 1023px) {
+    .place__paragraph_space {
+        padding-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__paragraph_space {
+        padding-bottom: 25px;
+    }
+}
