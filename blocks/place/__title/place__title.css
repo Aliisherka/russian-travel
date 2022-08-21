@@ -1,9 +1,9 @@
 .place__title {
-    font-family: 'Inter-black';
+    font-family: 'Inter';
+    font-weight: 900;
     margin: 0;
     color: #FFFFFF;
     width: 460px;
-    font-weight: 900;
     font-size: 72px;
     line-height: 1.06;
 }
